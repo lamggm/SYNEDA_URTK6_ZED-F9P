@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib
+    (name "SYNEDA_SYM")
+    (type "KiCad")
+    (uri "${KIPRJMOD}/SYNEDA_Symbols.kicad_sym")
+    (options "")
+    (descr "SYNEDA KiCad project symbols")
+  )
+)

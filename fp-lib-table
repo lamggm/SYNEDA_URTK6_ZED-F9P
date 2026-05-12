@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib
+    (name "SYNEDA_FP")
+    (type "KiCad")
+    (uri "${KIPRJMOD}/SYNEDA_Footprints.pretty")
+    (options "")
+    (descr "SYNEDA KiCad project footprints")
+  )
+)

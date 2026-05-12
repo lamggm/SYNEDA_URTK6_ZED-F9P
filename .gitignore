@@ -1,0 +1,30 @@
+# KiCad local backups/cache/history
+*-backups/
+*-backups/**
+.history/
+*.bak
+*.bak_*
+*.tmp
+*.lck
+*~
+fp-info-cache
+*-save.pro
+
+# KiCad local UI/session
+*.kicad_prl
+
+# Generated outputs
+dist/
+gerbers/
+gerber/
+plot/
+plots/
+fabrication/
+production/
+bom/
+*.zip
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
